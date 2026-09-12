@@ -1,6 +1,6 @@
 
 
---- Healthcare Analytics Queries:
+---- Healthcare Analytics Queries:
 USE HealthcareDB;
 
 
