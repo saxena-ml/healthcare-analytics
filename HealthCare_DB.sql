@@ -1,4 +1,4 @@
--- Database Creation
+-- Database Creation --
 CREATE DATABASE HealthcareDB;
 
 Use HealthcareDB;
